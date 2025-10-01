@@ -90,6 +90,4 @@ The client runs on `http://localhost:3000` and proxies API requests to the serve
 - Group actions (add/remove/rename) and nicknames are available from the right info panel.
 - Profile menu lets you update name/photo or logout.
 
-## Author
 
-- [@Maryam‑Ameen](https://github.com/engmaryamameen)
